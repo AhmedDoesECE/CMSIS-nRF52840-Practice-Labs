@@ -1,0 +1,17 @@
+# Build output
+build/
+_build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Editor and OS clutter
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
